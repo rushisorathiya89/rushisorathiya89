@@ -17,9 +17,5 @@ Entry-level software engineer with a strong foundation in software development c
 ---
 [![](https://visitcount.itsvg.in/api?id=rushisorathiya89&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rushisorathiya89/rushisorathiya89/refs/heads/output/github-contribution-grid-snake.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rushisorathiya89/rushisorathiya89/refs/heads/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/rushisorathiya89/rushisorathiya89/refs/heads/output/github-contribution-grid-snake.svg" />
-</picture>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
